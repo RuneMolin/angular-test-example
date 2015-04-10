@@ -1,0 +1,11 @@
+{
+  "name": "angular-test-example",
+  "version": "1.0.0",
+  "description": "Angular example app with some CI and test infrastructure wired up",
+  "main": "src/app.html",
+  "scripts": {
+    "test": "grunt test"
+  },
+  "author": "Jesper Rønn-Jensen",
+  "license": "ISC"
+}
